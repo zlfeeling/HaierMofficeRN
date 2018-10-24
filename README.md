@@ -15,3 +15,11 @@ https://xxx.haier.com/haier/wuliu/btb/test/ios/btb_test_ios_2018101801.zip
 4、	包内不能包含无用的文件夹，必须是直接到js bundle相关文件
 5、	环境区分出测试(test)和生产(prod)两个环境
 6、	Js主文件名必须是main.jsbundle
+
+
+
+APP更新说明：
+1、测试地址，以后你们改了东西需要看看创客上的效果，就把这个zip删除，
+同路径下上传一个一样命名的，然后app卸载重装，启动APP后点击BTB就会下载新的zip文件。
+
+2、生产环境的地址，修改之后需要提供新的地址，创客发热更，用户更新。
